@@ -1,0 +1,9 @@
+name: colab_mobile_pro
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.4.2
+flutter:
+  uses-material-design: true
